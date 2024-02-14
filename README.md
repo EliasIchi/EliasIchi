@@ -36,4 +36,4 @@
 
 ### Contribuciones Recientes 📊
 
-![Elias Emanuel Almada's GitHub contributions](https://github.com/EliasIchi/EliasIchi/blob/main/profile-summary-card-output/default/0-profile-details--animated.svg)
+![Elias Emanuel Almada's GitHub contributions](https://github.com/EliasIchi/EliasIchi/blob/main/github-contribution-grid-snake.svg)
