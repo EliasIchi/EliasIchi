@@ -36,4 +36,4 @@
 
 ### Contribuciones Recientes 📊
 
-![Elias Emanuel Almada's GitHub contributions](https://github.com/EliasIchi/EliasIchi/blob/main/github-contribution-grid-snake.svg)
+[![Elias Emanuel Almada's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIchi&show_icons=true&theme=radical)](https://github.com/EliasIchi)
