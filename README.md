@@ -1,8 +1,8 @@
-# Elias Ichi
+# Elias Emanuel Almada
 
 ## Bienvenidos a mi perfil de GitHub 🚀
 
-¡Hola! Soy Elias Ichi, un apasionado de la ciencia de datos y la visualización de datos. Aquí encontrarás algunos de mis proyectos y contribuciones en diversas áreas. ¡No dudes en explorar!
+¡Hola! Soy Elias Emanuel Almada, un apasionado en analisis y la visualización de datos. Aquí encontrarás algunos de mis proyectos y contribuciones en diversas áreas. ¡No dudes en explorar!
 
 ### Herramientas que Utilizo 🛠️
 
@@ -21,4 +21,4 @@
 ### Contacto 📫
 
 - Email: [eliasemanuelalmada5757@gmail.com](mailto:eliasemanuelalmada5757@gmail.com)
-- LinkedIn: [Elias Ichi](https://www.linkedin.com/in/elias-almada-795a54158/)
+- LinkedIn: [Elias Emanuel Almada](https://www.linkedin.com/in/elias-almada-795a54158/)
