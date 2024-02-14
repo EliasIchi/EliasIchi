@@ -37,3 +37,5 @@
 ### Contribuciones Recientes 📊
 
 [![Elias Emanuel Almada's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIchi&show_icons=true&theme=radical)](https://github.com/EliasIchi)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EliasIchi&theme=nightfox&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
