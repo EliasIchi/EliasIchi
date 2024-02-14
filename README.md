@@ -9,6 +9,7 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
 - ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 - ![Power Query](https://img.shields.io/badge/-Power%20Query-F2C811?style=flat-square&logo=power-bi&logoColor=white)
