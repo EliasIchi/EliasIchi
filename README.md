@@ -32,3 +32,8 @@
 
 - Email: [eliasemanuelalmada5757@gmail.com](mailto:eliasemanuelalmada5757@gmail.com)
 - LinkedIn: [Elias Emanuel Almada](https://www.linkedin.com/in/elias-almada-795a54158/)
+
+
+### Contribuciones Recientes 📊
+
+[![Elias Emanuel Almada's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIchi&show_icons=true&theme=radical)](https://github.com/EliasIchi)
