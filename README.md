@@ -23,6 +23,8 @@
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 - ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 - ![Office](https://img.shields.io/badge/-Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+- ![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=flat-square&logo=onedrive&logoColor=white)
+- ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
 - ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
 - ![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
