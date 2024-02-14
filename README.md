@@ -21,4 +21,4 @@
 ### Contacto 📫
 
 - Email: [eliasemanuelalmada5757@gmail.com](mailto:eliasemanuelalmada5757@gmail.com)
-- LinkedIn: [Elias Ichi]([https://www.linkedin.com/in/eliasichi/](https://www.linkedin.com/in/elias-almada-795a54158/)https://www.linkedin.com/in/elias-almada-795a54158/)
+- LinkedIn: [Elias Ichi](https://www.linkedin.com/in/elias-almada-795a54158/)
